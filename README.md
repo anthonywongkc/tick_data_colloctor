@@ -18,6 +18,7 @@ Pros of File System Storage:
 ## 3.Enhancement
 
 Use database to store tick data for multiple users working on same data
+
 Use Column-oriented DBMS to store tick data for faster processing
 
 
